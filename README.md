@@ -14,7 +14,8 @@
 
 <details>
 
-![image1](https://github.com/some_image)
+![image1](https://github.com/SirSeoPro/09-03-zabbix-part-2/blob/main/img/1.png)
+![image2](https://github.com/SirSeoPro/09-03-zabbix-part-2/blob/main/img/2.png)
 
 </details>
 
@@ -36,7 +37,8 @@
 
 <details>
 
-![image1](https://github.com/some_image)
+![image3](https://github.com/SirSeoPro/09-03-zabbix-part-2/blob/main/img/3.png)
+![image4](https://github.com/SirSeoPro/09-03-zabbix-part-2/blob/main/img/4.png)
 
 </details>
 
@@ -56,7 +58,7 @@
 
 <details>
 
-![image1](https://github.com/some_image)
+![image5](https://github.com/SirSeoPro/09-03-zabbix-part-2/blob/main/img/5.png)
 
 </details>
 
@@ -75,7 +77,7 @@
 
 <details>
 
-![image1](https://github.com/some_image)
+![image6](https://github.com/SirSeoPro/09-03-zabbix-part-2/blob/main/img/6.png)
 
 </details>
 
